@@ -20,4 +20,11 @@ print(a * 10)
 b = 'ABCD'
 print('C' in b)
 
-
+c = 10
+d = 5
+if c > d:
+    print(1)
+elif c < d:
+    print(2)
+else:
+    print(3)
